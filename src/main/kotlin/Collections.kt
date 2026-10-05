@@ -57,7 +57,5 @@ example1122.add("Go")
 
 val example33 = mutableSetOf(1, 2, 3, 4, 5)
 example33.remove(2)
-
-
-
+        /*к*/
 
