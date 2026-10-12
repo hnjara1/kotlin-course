@@ -1,4 +1,4 @@
-/* Работа с массивами Array*/
+package lessons.lesson09.homeworks/* Работа с массивами Array*/
 
 val example1  = arrayOf(1, 2, 3, 4, 5)
 

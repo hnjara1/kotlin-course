@@ -1,6 +1,6 @@
 package lessons.lesson07.homeworks
 
-import i
+import lessons.lesson09.homeworks.i
 
 /*Прямой диапазон*/
 
