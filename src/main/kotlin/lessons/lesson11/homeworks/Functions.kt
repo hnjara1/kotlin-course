@@ -30,6 +30,8 @@ package lessons.lesson11.homeworks
     return null
 }
 
+
+
 9. fun getStrings(): List<String?> {
     return emptyList()
 }
