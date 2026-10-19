@@ -55,7 +55,7 @@ println(sortedWords)
 println(sortedDescending)
 
 19. numbers.map { it * it }.forEach { println(it) }
-
+-
 20.
 
 21. val distinctWords = words.distinct()
