@@ -1,4 +1,4 @@
-/*Задачи на приведение коллекции к значению*/
+package lessons.lesson12.homeworks/*Задачи на приведение коллекции к значению*/
 1. val isEmpty = numbers.isEmpty()
 println(isEmpty)
 
