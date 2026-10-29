@@ -188,3 +188,4 @@ class Rack(private val maxShelves: Int) {
         return notReplacedItems.toList()
     }
 }
+/*
